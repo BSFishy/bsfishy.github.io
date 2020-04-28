@@ -18,27 +18,27 @@ defaults:
 
 projects:
   sort_by: pushed
-  limit: 9
+  limit: 6
   exclude:
-    archived: false
+    archived: true
     forks: true
 
 social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
-  # hackerrank: your_username
+  hackerrank: BSFishy
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: matt-provost
   # mastodon: your_username
   # medium: your_username
   stackoverflow: 4254252
   # telegram: your_username
-  # twitter: your_username
+  twitter: BSFishy
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+  website: https://bsfishy.github.io/
   # youtube: your_username
 
 topics:
