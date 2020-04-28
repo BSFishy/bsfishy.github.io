@@ -6,7 +6,7 @@ plugins:
   - jekyll-github-metadata
   - jemoji
 
-permalink: /:categories/:slug/
+permalink: /blog/:categories/:slug/
 
 defaults:
   -
